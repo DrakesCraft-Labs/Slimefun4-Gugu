@@ -271,3 +271,13 @@ Slimefun4 使用 [GitHub API](https://api.github.com/) 收集关于此开源项�
 
 另外，插件还使用了 [textures.minecraft.net](https://www.minecraft.net/en-us) 以获取协作者的 Minecraft 皮肤。  
 请注意：Slimefun 与 `Mojang Studios` 或 Minecraft 无关。
+
+## ⚖️ Upstream Attribution & License / Licencia y Créditos
+
+- **Original Project / Upstream**: Slimefun4 Community Addon.
+- **Port & Maintenance**: DrakesCraft Labs team (Compatibility for Paper / Purpur 1.21.11).
+- **License**: GPL-3.0 / MIT.
+- **Source Code**: [GitHub Repository](https://github.com/DrakesCraft-Labs/Slimefun4-Igdrassil)
+- **Support & Issues**: [GitHub Issues](https://github.com/DrakesCraft-Labs/Slimefun4-Igdrassil/issues) | [Discord](https://discord.gg/rR7FbfCt9Y)
+
+*This project is an open-source derivative work maintained by DrakesCraft Labs under the terms of its original license. All original assets and concepts belong to their respective creators.*
